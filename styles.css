@@ -1,0 +1,13 @@
+.hero_section img {
+  height: 70vh;
+}
+
+/* @media (max-width: 700px) {
+  .section_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: red;
+  }
+} */
